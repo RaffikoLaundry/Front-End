@@ -1,0 +1,156 @@
+.bg-1 {
+    background-color: #F2780C;
+}
+
+.bg-2 {
+    background-color: #F2A03D;
+}
+
+.bg-3 {
+    background-color: #A64208;
+}
+
+.font-1 {
+    color: #F2780C;
+}
+
+.font-2 {
+    color: #F2A03D;
+}
+
+.font-3 {
+    color: #A64208;
+}
+
+.nav1 {
+    background-image: url('../assets/img/heroes.png');
+    height: 700px;
+}
+
+.nav1 li a, .nav2 li a {
+    font-size: 30px;
+}
+
+.nav1 .row {
+    margin-top: 130px;
+}
+
+.nav1 .row h1 {
+    font-size: 100px;
+}
+
+.nav1 .row p {
+    font-size: 20px;
+}
+
+.nav1 .row a {
+    font-size: 30px;
+}
+
+.step {
+    padding-top: 52px;
+    padding-bottom: 52px;
+}
+
+.packet .col-3 {
+    border-radius: 20px;
+    border: 1px solid #A64208;
+    
+}
+
+.packet hr {
+    border-width: 2px;
+}
+
+.footer ul {
+    list-style: none;
+}
+
+.gradient-body {
+    background-image: linear-gradient(to right, #F2780C , #F2A03D);
+}
+
+.login-form {
+    margin-top: 150px;
+}
+
+.login-form img {
+    width: 30px;
+}
+
+.login-form hr {
+    border-width: 2px;
+}
+
+.login-form #remember {
+    margin-left: 56px;
+}
+
+.register-form {
+    margin-top: 50px;
+}
+
+.register-form label {
+    font-weight: 500;
+}
+
+.register-form input, .register-form textarea, .register-form select, .register-form option, .register-form label {
+    border-color:#A64208;
+    color: #A64208;
+}
+
+.non-packet .bedcover {
+    background-image: url('../assets/img/bedcover.png');
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.non-packet .sprei {
+    background-image: url('../assets/img/sprei.png');
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.non-packet .selimut {
+    background-image: url('../assets/img/selimut.png');
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.non-packet .boneka {
+    background-image: url('../assets/img/boneka.png');
+    background-size: cover;
+    background-position: 30% 50%;
+}
+
+.about hr {
+    border-width: 4px;
+}
+
+.about-text {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.service-text {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.sidebar ul {
+    list-style: none;
+}
+
+.sidebar li img {
+    width: 40px;
+    height: 40px;
+}
+
+.sidebar li p {
+    font-size: 30px;
+    margin: 0;
+}
+
+.sidebar .logout {
+    margin-top: 350px;
+}
